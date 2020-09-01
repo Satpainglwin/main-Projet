@@ -1,0 +1,83 @@
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Asus\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+F:\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Documents\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl1.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Downloads\Compressed\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl2.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl1.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl2.resources
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Downloads\User-master\User-master\projetfile-master\mainproject\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl1.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl2.resources
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\ASUS VivoBook\Downloads\Compressed\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe.config
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\bin\Debug\MainprojectofTeamphenomenon.pdb
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Form1.resources
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Home.resources
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.Properties.Resources.resources
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl1.resources
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.UserControl2.resources
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.exe
+C:\Users\Hp\Downloads\git-master (2)\git-master\GG-master\MainprojectofTeamphenomenon\MainprojectofTeamphenomenon\obj\Debug\MainprojectofTeamphenomenon.pdb
